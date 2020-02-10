@@ -1,7 +1,7 @@
 # scrapy-crawler
 crawler using scrapy
 
-  pip install scrapy
+     pip install scrapy
 
 In this example we used the : https://blog.scrapinghub.com/
 
